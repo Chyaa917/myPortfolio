@@ -45,7 +45,7 @@ const DATA = {
   /* image: path gambar karya (mis. 'img/proyek1.jpg'). Kosong = tampil kotak warna.
      link: tautan ke karya lengkap (opsional). */
   projects: [
-    { title: 'Kaos Agustusan',     category: 'Branding',     year: '2025', image: 'img/projects/kaosAgustusan.png', link: '', tools: ['Illustrator', 'Photoshop'], text: 'Logo, palet warna, desain kaos, ornamen.'},
+    { title: 'Kaos Agustusan',     category: 'Branding',     year: '2025', image: 'kaosAgustusan.png', link: '', tools: ['Illustrator', 'Photoshop'], text: 'Logo, palet warna, desain kaos, ornamen.'},
     
     { title: 'Banner Kegiatan Peringatan HUT RI',    category: 'Poster',       year: '2025', image: 'img/projects/bannerAgustusan.png', link: '', tools: ['Photoshop'],               text: 'banner utama dan turunannya untuk festival musik kampus.' },
     
