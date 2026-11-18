@@ -9,7 +9,7 @@
 const DATA = {
   name: 'Cahya Nurbaya',
   title: 'Creative desainer',
-  avatar: 'myPortfolio/assets/logo.png',                      // mis. 'img/foto.jpg'. Kosong = tampil inisial
+  avatar: 'https://raw.githubusercontent.com/Chyaa917/myPortfolio/refs/heads/main/assets/logo.png',                      // mis. 'img/foto.jpg'. Kosong = tampil inisial
   email: 'cahyanurbaya917@mail.com',
   phone: '',                       // kosongkan jika tidak ingin ditampilkan
   birthday: '8 Februari 2005',     // kosongkan jika tidak ingin ditampilkan
